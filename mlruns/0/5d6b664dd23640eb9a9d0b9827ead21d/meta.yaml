@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chait/Desktop/Admission%20mlflow/mlruns/0/5d6b664dd23640eb9a9d0b9827ead21d/artifacts
+end_time: 1639500473319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 5d6b664dd23640eb9a9d0b9827ead21d
+run_uuid: 5d6b664dd23640eb9a9d0b9827ead21d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1639500468115
+status: 3
+tags: []
+user_id: chait
